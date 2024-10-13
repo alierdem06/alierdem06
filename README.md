@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m Ali
 
-- 🌱 I’m currently learning Flutter
+
 - 📫 How to reach me alierdem1515@gmail.com
 
 <!---
